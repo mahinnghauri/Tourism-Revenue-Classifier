@@ -37,11 +37,5 @@ The **Tourism Revenue Classifier** is a web-based application that classifies to
 
 This project emphasizes **deployment workflow, UI interaction, and backend integration**. The prediction logic is intentionally kept simple and can be replaced with a fully trained machine learning model in future enhancements.
 
-## Disclaimer
 
-This repository is intended for **educational and demonstration purposes**.
-
----
-
-© Tourism Revenue Classifier
 
